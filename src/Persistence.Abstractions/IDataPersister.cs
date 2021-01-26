@@ -3,7 +3,7 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Chinook.Persistence
+namespace Nventive.Persistence
 {
 	/// <summary>
 	/// Abstraction over the persistence of an entity ensuring transactional operations when possible.

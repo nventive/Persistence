@@ -5,7 +5,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using Uno;
 
-namespace Chinook.Persistence
+namespace Nventive.Persistence
 {
 	/// <summary>
 	/// Represents a service that can store user settings.

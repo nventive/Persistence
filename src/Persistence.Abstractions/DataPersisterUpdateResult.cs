@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.ExceptionServices;
 
-namespace Chinook.Persistence
+namespace Nventive.Persistence
 {
 	/// <summary>
 	/// Result of a Update method call.

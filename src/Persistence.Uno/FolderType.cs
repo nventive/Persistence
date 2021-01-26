@@ -1,4 +1,4 @@
-﻿namespace Chinook.Persistence
+﻿namespace Nventive.Persistence
 {
 	/// <summary>
 	/// Properties of the folder

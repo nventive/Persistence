@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Chinook.Persistence
+namespace Nventive.Persistence
 {
 	/// <summary>
 	/// [Flags] Describe the behavior of the <see cref="DefaultValueDataPersisterDecorator{T}"/>.

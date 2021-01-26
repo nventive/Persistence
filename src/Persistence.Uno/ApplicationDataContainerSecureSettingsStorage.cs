@@ -12,7 +12,7 @@ using Uno.Extensions;
 using Uno.Logging;
 using Microsoft.Extensions.Logging;
 
-namespace Chinook.Persistence
+namespace Nventive.Persistence
 {
 	/// <summary>
 	/// Allows saving encrypted settings in a specific <see cref="ApplicationDataContainer"/>, like 

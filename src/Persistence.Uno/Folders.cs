@@ -2,7 +2,7 @@
 using System.Diagnostics.Contracts;
 using System.IO;
 
-namespace Chinook.Persistence
+namespace Nventive.Persistence
 {
 	/// <summary>
 	/// Helper class for getting system folders

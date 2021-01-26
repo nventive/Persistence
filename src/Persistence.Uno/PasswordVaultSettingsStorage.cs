@@ -10,7 +10,7 @@ using Uno.Extensions;
 using Uno.Logging;
 using Microsoft.Extensions.Logging;
 
-namespace Chinook.Persistence
+namespace Nventive.Persistence
 {
 	/// <summary>
 	/// Allows saving settings as passwords in the <see cref="PasswordVault"/>. This service has limitations, 

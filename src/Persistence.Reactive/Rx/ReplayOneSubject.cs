@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 using Uno.Collections;
 using Uno.Threading;
 
-namespace Chinook.Persistence
+namespace Nventive.Persistence
 {
 	[Flags]
 	internal enum ReplayOneSubjectMode

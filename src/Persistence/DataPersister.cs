@@ -2,8 +2,11 @@
 using System.Collections.Generic;
 using System.IO;
 
-namespace Chinook.Persistence
+namespace Nventive.Persistence
 {
+	/// <summary>
+	/// Helper class for creating <see cref="IDataPersister{T}"/>
+	/// </summary>
 	public static class DataPersister
 	{
 		/// <summary>

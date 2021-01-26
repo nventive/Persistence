@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Chinook.Persistence
+namespace Nventive.Persistence
 {
 	public interface ISettingsSerializer
 	{

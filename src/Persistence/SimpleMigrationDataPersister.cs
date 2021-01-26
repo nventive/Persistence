@@ -4,7 +4,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using Uno.Threading;
 
-namespace Chinook.Persistence
+namespace Nventive.Persistence
 {
 	/// <summary>
 	/// The <see cref="SimpleMigrationDataPersister{TLegacy, TCurrent}"/> is an implementation of <see cref="IDataPersister{TCurrent}"/>

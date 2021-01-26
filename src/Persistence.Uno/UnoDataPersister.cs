@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using Uno.Extensions;
 
-namespace Chinook.Persistence
+namespace Nventive.Persistence
 {
 	public static class UnoDataPersister
 	{

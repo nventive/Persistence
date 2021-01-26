@@ -12,7 +12,7 @@ using Uno.Extensions;
 using Uno.Logging;
 using Uno.Threading;
 
-namespace Chinook.Persistence
+namespace Nventive.Persistence
 {
 	/// <summary>
 	/// Allows saving settings in a secure storage using iOS' keychain.
