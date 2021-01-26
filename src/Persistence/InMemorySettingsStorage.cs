@@ -8,7 +8,7 @@ using Uno.Extensions;
 using Uno.Logging;
 using Uno.Threading;
 
-namespace Chinook.Persistence
+namespace Nventive.Persistence
 {
 	public class InMemorySettingsStorage : ISettingsStorage, IDisposable
 	{

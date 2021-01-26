@@ -7,7 +7,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using Uno;
 
-namespace Chinook.Persistence
+namespace Nventive.Persistence
 {
 	/// <summary>
 	/// Provides a set of static methods for writing in-memory queries over observable sequences.

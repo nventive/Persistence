@@ -11,7 +11,7 @@ using Uno.Extensions;
 using Uno.Logging;
 using Uno.Threading;
 
-namespace Chinook.Persistence
+namespace Nventive.Persistence
 {
 	public sealed class SettingsStorageObservableDataPersisterAdapter<T> : IObservableDataPersister<T>, IDisposable
 	{

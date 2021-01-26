@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Uno;
 
-namespace Chinook.Persistence
+namespace Nventive.Persistence
 {
 	/// <summary>
 	/// Transactional Context for the Update callback.

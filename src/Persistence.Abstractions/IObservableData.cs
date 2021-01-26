@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Chinook.Persistence
+namespace Nventive.Persistence
 {
 	/// <summary>
 	/// Generic interface for a value who can be observed.

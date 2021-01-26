@@ -5,7 +5,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using Uno;
 
-namespace Chinook.Persistence
+namespace Nventive.Persistence
 {
 	/// <summary>
 	/// A <see cref="IDataPersister{TEntity}"/> which validate the version of the saved value, and overrides it if a newer version is available.

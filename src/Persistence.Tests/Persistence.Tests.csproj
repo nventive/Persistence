@@ -3,8 +3,8 @@
   <PropertyGroup>
     <TargetFramework>net461</TargetFramework>
     <IsPackable>false</IsPackable>
-		<AssemblyName>Chinook.Persistence.Tests</AssemblyName>
-    <RootNamespace>Chinook.Persistence.Tests</RootNamespace>
+		<AssemblyName>Nventive.Persistence.Tests</AssemblyName>
+    <RootNamespace>Nventive.Persistence.Tests</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

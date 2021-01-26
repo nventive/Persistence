@@ -4,7 +4,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Chinook.Persistence
+namespace Nventive.Persistence
 {
 	public static class DataReaderExtensions
 	{

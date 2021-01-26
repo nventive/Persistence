@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Uno.Extensions;
 using Uno.Logging;
 
-namespace Chinook.Persistence
+namespace Nventive.Persistence
 {
 	/// <summary>
 	/// Implementation of IDataReader over a file on disk.

@@ -3,7 +3,7 @@ using System.Reactive;
 using System.Reactive.Concurrency;
 using Uno.Extensions;
 
-namespace Chinook.Persistence
+namespace Nventive.Persistence
 {
 	internal static class ObserverExtensions
 	{

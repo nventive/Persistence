@@ -1,4 +1,4 @@
-﻿namespace Chinook.Persistence
+﻿namespace Nventive.Persistence
 {
 	/// <summary>
 	/// Something that may have multiple format version

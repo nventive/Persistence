@@ -1,4 +1,4 @@
-﻿namespace Chinook.Persistence
+﻿namespace Nventive.Persistence
 {
 	/// <summary>
 	/// Interface for a DataPersister who can provide observation

@@ -2,12 +2,12 @@
 
 	<PropertyGroup>
 		<TargetFrameworks>netstandard2.0</TargetFrameworks>
-		<RootNamespace>Chinook.Persistence</RootNamespace>
+		<RootNamespace>Nventive.Persistence</RootNamespace>
 		<Authors>nventive</Authors>
 		<Company>nventive</Company>
-		<AssemblyName>Chinook.Persistence</AssemblyName>
-		<PackageId>Chinook.Persistence</PackageId>
-		<Description>Chinook.Persistence</Description>
+		<AssemblyName>Nventive.Persistence</AssemblyName>
+		<PackageId>Nventive.Persistence</PackageId>
+		<Description>Nventive.Persistence</Description>
 		<GenerateDocumentationFile>true</GenerateDocumentationFile>
 	</PropertyGroup>
 

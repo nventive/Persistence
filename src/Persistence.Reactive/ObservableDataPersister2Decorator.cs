@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 using Uno.Extensions;
 using Uno.Threading;
 
-namespace Chinook.Persistence
+namespace Nventive.Persistence
 {
 	/// <summary>
 	/// A decorator for <see cref="IDataPersister{TEntity}"/> which adds ability to observe the "current" value through an <seealso cref="IObservable{T}"/> sequence.

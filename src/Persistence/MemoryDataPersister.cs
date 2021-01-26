@@ -8,7 +8,7 @@ using Uno.Extensions;
 using Uno.Logging;
 using Uno.Threading;
 
-namespace Chinook.Persistence
+namespace Nventive.Persistence
 {
 	/// <summary>
 	/// Provide a _fake_ implementation of <see cref="IDataPersister{T}"/> who operates in memory.

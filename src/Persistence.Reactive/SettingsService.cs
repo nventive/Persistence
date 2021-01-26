@@ -8,7 +8,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using Uno;
 
-namespace Chinook.Persistence
+namespace Nventive.Persistence
 {
 	/// <summary>
 	/// Service for accessing user settings stored with an implementation of an <see cref="ISettingsStorage"/>.

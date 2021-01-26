@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Chinook.Persistence
+namespace Nventive.Persistence
 {
 	public static class SettingsStorageExtensions
 	{

@@ -11,7 +11,7 @@ using System.Diagnostics;
 using Microsoft.Extensions.Logging;
 using Uno.Disposables;
 
-namespace Chinook.Persistence
+namespace Nventive.Persistence
 {
 	/// <summary>
 	/// This is an implementation of <see cref="IDataPersister{T}"/> base on System.IO namespace. [IMPORTANT: see remarks]

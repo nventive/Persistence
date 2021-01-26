@@ -4,7 +4,7 @@ using System.ComponentModel;
 using System.Runtime.ExceptionServices;
 using Uno;
 
-namespace Chinook.Persistence
+namespace Nventive.Persistence
 {
 	/// <summary>
 	/// Represent the result of a _Read_ operation.

@@ -10,7 +10,7 @@ using Uno.Collections;
 using Uno.Extensions;
 using System.Threading;
 
-namespace Chinook.Persistence
+namespace Nventive.Persistence
 {
 	internal static partial class ObservableExtensions
 	{
