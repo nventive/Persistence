@@ -1,4 +1,4 @@
-# Chinook.Persistence
+# Persistence
 
 {Project tag line}
 
